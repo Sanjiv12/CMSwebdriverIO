@@ -1,0 +1,10 @@
+{
+    "priceGroup":{
+        "name": "Delhi Price List",
+        "desc": "This Price may be vary time to time",
+        "kwh": "20",
+        "fixedFee": "110",
+        "fixedFeeCharging": "28",
+        "longitude": "77.32490430000001"
+    }
+}
